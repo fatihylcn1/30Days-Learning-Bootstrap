@@ -32,5 +32,5 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/fatihylcn130daysjavascript/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/fatihylcn130daysbootstrap/count.svg)
 <img height="120" alt="Thanks for visiting my project" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
